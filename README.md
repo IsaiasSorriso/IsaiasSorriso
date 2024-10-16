@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaias-souza-819295227/)
 
-![Isaias GitHub Status](https://github-readme-stats.vercel.app/api?username=IsaiasSorriso&show_icons=true&theme=radical)
+![Isaias GitHub Status](https://github-readme-stats.vercel.app/api?username=IsaiasSorriso&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasSorriso&layout=compact)
 
 
 Tecnologias Utilizadas no Meu Dia a Dia 💻
